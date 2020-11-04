@@ -1,2 +1,2 @@
 # pentagrama
-imagen que representa modificación para los clores y ventana de android con los colores en un dispositivo
+imagen que representa modificación para los colores y ventana de android con los colores en un dispositivo
